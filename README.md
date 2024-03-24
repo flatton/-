@@ -10,7 +10,7 @@ NLP2024にて発表する「P2-10 ソーシャルメディア上の発話の攻�
 # 更新（2024/3/24）
 ## 攻撃性推定モデルの比較
 4種類の事前学習済み言語モデルをFine-tuningした結果の性能を以下に示す。
-Fine-tuningしたモデルはいずれもHuggingFace上に公開している。
+Fine-tuningしたモデルはいずれもHuggingFace上に公開している。(現在アップロード中です。)
 
 | 評価指標 | luke-japanese-base-lite | luke-japanese-large-lite |twhin-bert-base | twhin-bert-large |
 | ----- | ----- | ----- | ----- | ----- |
