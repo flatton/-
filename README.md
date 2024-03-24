@@ -22,3 +22,4 @@ Fine-tuningしたモデルはいずれもHuggingFace上に公開している。
 
 ## 連絡先
 E-mail: tomoki.fujihara.p3@dc.tohoku.ac.jp
+X: https://twitter.com/flaton_11
