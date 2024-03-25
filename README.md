@@ -22,5 +22,5 @@ Fine-tuningしたモデルはいずれもHuggingFace上に公開している。(
 | params | 133M | 415M | 279M | 562M |
 
 ## 連絡先
-E-mail: tomoki.fujihara.p3@dc.tohoku.ac.jp
-X: https://twitter.com/flaton_11
+- E-mail: tomoki.fujihara.p3@dc.tohoku.ac.jp
+- X: https://twitter.com/flaton_11
